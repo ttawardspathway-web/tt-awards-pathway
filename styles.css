@@ -11,3 +11,5 @@
 .awards-hero img{mix-blend-mode:multiply;filter:none}
 .footer-grid>div:first-child img{filter:none}
 .brand{height:76px;display:flex;align-items:center}.brand img{max-height:70px;width:auto;object-fit:contain}@media(max-width:900px){.brand{height:68px}.brand img{max-height:62px}}
+
+.award-token b.word{font-size:42px;letter-spacing:.02em}
