@@ -13,3 +13,5 @@
 .brand{height:76px;display:flex;align-items:center}.brand img{max-height:70px;width:auto;object-fit:contain}@media(max-width:900px){.brand{height:68px}.brand img{max-height:62px}}
 
 .award-token b.word{font-size:42px;letter-spacing:.02em}
+
+.award-badge{width:156px;height:156px;object-fit:contain;filter:drop-shadow(0 12px 16px rgba(0,0,0,.16))}.pathway-badge{width:150px;height:150px;object-fit:contain;margin-bottom:26px;filter:drop-shadow(0 12px 18px #000)}.assessment-includes{list-style:none;padding:0;margin:26px 0;display:grid;gap:13px}.assessment-includes li{position:relative;padding-left:30px;line-height:1.6;color:var(--muted)}.assessment-includes li:before{content:"✓";position:absolute;left:0;top:0;color:var(--deep-red);font-weight:900}.eligibility-note{border-left:4px solid var(--red);padding:15px 0 15px 20px;color:var(--ink)!important}.price-card small{line-height:1.5}@media(max-width:600px){.award-badge{width:150px;height:150px}.pathway-badge{width:145px;height:145px}}
